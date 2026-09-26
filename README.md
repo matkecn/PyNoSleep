@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Run:
 
 ```bash
-python main.py
+python nosleep.py
 ```
 
 The cursor will move to a random position on your screen every few seconds.
